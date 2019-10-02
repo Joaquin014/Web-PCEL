@@ -486,10 +486,6 @@
       text-decoration: none;
   }
 
-  .pager a.selected {
-      /*text-decoration: underline;*/
-  }
-
   .timer {
       background-color: #999;
       height: 6px;
@@ -499,3 +495,4 @@
   .caroufredsel_wrapper {
       /*width: 80% !important;*/
       margin: auto !important; 
+    }
