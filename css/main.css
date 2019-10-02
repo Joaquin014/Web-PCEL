@@ -184,3 +184,56 @@
     display: block;
     border-bottom: 1px solid #000
   }
+  #content_newsletter {
+    width: 100%;
+    background: #F80000;
+    height: 85px;
+    box-sizing: border-box;
+  }
+
+  .content_middle_newsletter {
+    width: 50%;
+    height: 100%;
+    float: left;
+    padding: 16px;
+    box-sizing: border-box;
+  }
+
+  #inputMail {
+    width: 49%;
+    display: initial;
+    margin-right: 5px;
+    height: 29px;
+    box-sizing: border-box;
+    margin-top: 2px;
+  }
+
+  #sendMail {
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 29px;
+    background: #5E6168;
+    border: none;
+    color: #fff;
+    margin-top: -4.5px;
+  }
+
+  #sendMail:hover {
+    background: #fff;
+    color: #5E6168;
+  }
+
+  #agremment p {
+    font-size: 12px;
+    color: #fff;
+    line-height: 1.3;
+    margin: auto;
+  }
+
+  #checkAgremment {
+    width: 13px;
+    height: 13px;
+    margin:0 auto;
+    margin: -1px -19px 0px 20px;
+  }
